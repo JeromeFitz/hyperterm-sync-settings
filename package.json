@@ -1,17 +1,17 @@
 {
-  "name": "hyperterm-sync-settings",
+  "name": "hyper-sync-settings",
   "version": "1.5.1",
-  "description": "Sync HyperTerm settings with Github.",
+  "description": "Sync Hyper settings with Github.",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dfrankland/hyperterm-sync-settings.git"
+    "url": "git+https://github.com/dfrankland/hyper-sync-settings.git"
   },
   "keywords": [
-    "hyperterm",
+    "hyper",
     "sync",
     "settings",
     "backup",
@@ -20,13 +20,13 @@
   "author": "Dylan Frankland <dylan@frankland.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dfrankland/hyperterm-sync-settings/issues"
+    "url": "https://github.com/dfrankland/hyper-sync-settings/issues"
   },
-  "homepage": "https://github.com/dfrankland/hyperterm-sync-settings#readme",
+  "homepage": "https://github.com/dfrankland/hyper-sync-settings#readme",
   "dependencies": {
-    "bluebird": "^3.4.1",
+    "bluebird": "^3.4.6",
     "fs-extra": "^0.30.0",
-    "moment": "^2.14.1",
+    "moment": "^2.15.1",
     "nodegit": "^0.15.1"
   },
   "engines": {
